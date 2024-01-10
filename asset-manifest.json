@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rick/static/css/main.371217a1.css",
+    "main.js": "/rick/static/js/main.76d636a9.js",
+    "static/media/copyright.svg": "/rick/static/media/copyright.6ba4196646e756963103de75cccb3618.svg",
+    "static/media/logo.png": "/rick/static/media/logo.9572ed0d08bc66bd39c5.png",
+    "index.html": "/rick/index.html",
+    "main.371217a1.css.map": "/rick/static/css/main.371217a1.css.map",
+    "main.76d636a9.js.map": "/rick/static/js/main.76d636a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371217a1.css",
+    "static/js/main.76d636a9.js"
+  ]
+}
