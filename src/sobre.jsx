@@ -4,13 +4,13 @@ import imagemRickMorty from "./copyright.svg";
 
 function Sobre() {
   return (
-    <div class="container px-4 text-center">
-      <div class="row gx-5">
-        <div class="col">
-          <div class="p-3">
+    <div className="container px-4 text-center">
+      <div className="row gx-md-5">
+        <div className="col-md-6">
+          <div className="p-3">
             <h2 className="text-baixo">Sobre Rick and Morty</h2>
             <div className="content-container">
-              <p>
+              <p className="paragrafo">
                 Rick é um cientista brilhante e um inventor altamente
                 habilidoso, mas perdido na bebida e desilusão. Já Morty é um
                 garoto comum, talvez até meio lerdo para a idade dele, que se vê
@@ -33,8 +33,8 @@ function Sobre() {
             </div>
           </div>
         </div>
-        <div class="col">
-          <div class="p-3">
+        <div className="col-md-6">
+          <div className="p-3">
             <img
               src={imagemRickMorty}
               alt="Rick and Morty"

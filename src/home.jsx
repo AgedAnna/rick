@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Modal, Button } from "react-bootstrap"; // Importa os componentes do React Bootstrap
+import { Modal, Button } from "react-bootstrap";
 import "./home.css";
 
 function Home() {

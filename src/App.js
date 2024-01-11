@@ -1,6 +1,7 @@
 import './App.css';
 import Home from './home';
 import CustomNavbar from './navbar';
+
 import Sobre from './sobre';
 
 function App() {

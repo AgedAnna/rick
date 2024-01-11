@@ -1,0 +1,11 @@
+h2 {
+  background-color: black;
+  padding: 20px;
+  border-radius: 6px;
+  color: aliceblue;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.card{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

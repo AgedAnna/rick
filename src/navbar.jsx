@@ -10,7 +10,10 @@ function CustomNavbar() {
       <Navbar.Brand as={Link} to="home" spy={true} smooth={true} duration={500}>
         <img src={logo} alt="logo" width="150px" className="logo" />
       </Navbar.Brand>
-      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+      <Navbar.Toggle
+        aria-controls="responsive-navbar-nav"
+        style={{ marginRight: "20px" }}
+      />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
           <Nav.Link as={Link} to="home" spy={true} smooth={true} duration={500}>
