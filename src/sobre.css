@@ -20,6 +20,7 @@
   transform: perspective(1000px) rotateY(-10deg);
   transition: transform 0.5s ease;
   animation: moveImage 10s infinite linear;
+  padding-top: 100px;
 }
 
 @keyframes moveImage {

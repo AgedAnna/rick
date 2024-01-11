@@ -25,10 +25,7 @@ function Sobre() {
                 Freires, e também foi transmitida nos canais pagos TBS, I.Sat e
                 TNT Séries, atualmente é exibida no Brasil pelo canal Warner
                 Channel desde 4 de maio de 2020 com a estreia do bloco do Adult
-                Swim no canal. Em agosto de 2015, o Adult Swim renovou a série
-                para uma terceira temporada de 10 episódios, que estreou no dia
-                1 de abril de 2017 com o resto da temporada programada para ir
-                ao ar durante o verão do mesmo ano.
+                Swim no canal.
               </p>
             </div>
           </div>
